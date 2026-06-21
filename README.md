@@ -15,10 +15,8 @@ The framework integrates:
 ## Key Features
 
 - Dataset construction from published literature
-- Descriptor generation using RDKit
 - Cascade representation for polymer systems
 - Deep learning-based prediction
-- Web-based prediction interface
 
 ## Research Area
 
