@@ -24,13 +24,9 @@ The framework integrates:
 
 Computational Materials Science | Machine Learning | Vitrimers | Polymer Engineering
 
-## Contributors
+## Citation
 
-- Mohammad Hossein Golbabaei (Project design, data collection, model development, implementation, and analysis)
-- Hunter Garner (Data collection, training experiments, and model selection)
+If you use this repository, please cite:
 
-
-
-## Status
-
-Active research project.
+Golbabaei, M.H., Garner, H., Zhang, N.
+"A Machine Learning Framework with Cascade Molecular Representation for Predicting Self-Healing Efficiency in Vitrimers."
