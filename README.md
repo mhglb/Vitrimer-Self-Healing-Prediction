@@ -21,10 +21,3 @@ The framework integrates:
 ## Research Area
 
 Computational Materials Science | Machine Learning | Vitrimers | Polymer Engineering
-
-## Citation
-
-If you use this repository, please cite:
-
-Golbabaei, M.H., Garner, H., Zhang, N.
-"A Machine Learning Framework with Cascade Molecular Representation for Predicting Self-Healing Efficiency in Vitrimers."
